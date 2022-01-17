@@ -34,5 +34,6 @@
   }
 
 body {
-    background-color: black;
+    background-color: grey;
+    opacity: 25;
 }
